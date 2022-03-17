@@ -6,11 +6,9 @@
 
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://aldodeveloper.netlify.app/](https://aldodeveloper.netlify.app/)
 
-- 🌱 Estou aprendendo **Typescript, node e mongoDB**
+- 🌱 Estou aprendendo **Typescript e JAMStack**
 
 - 📫 Por onde me contatar **aldobarbosa.dev@gmail.com**
-
-- 📄 Resumo sobre minhas experiências [https://drive.google.com/file/d/129dzjzp8g_GYnDzukB0p2Q3l0aUiIiud/view](https://drive.google.com/file/d/129dzjzp8g_GYnDzukB0p2Q3l0aUiIiud/view)
 
 <h3 align="left">Links redes sociais:</h3>
 <p align="left">
