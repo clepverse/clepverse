@@ -1,6 +1,6 @@
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
-<h1 align="center">Olá 👋, meu nome é Aldo</h1>
-<h4 align="center">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3>
+<h1 align="left">Olá 👋, meu nome é Aldo</h1>
+<h4 align="left">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3>
 <br>
 
 - 📚 Estou cursando **ciência da computação**
