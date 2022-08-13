@@ -1,17 +1,15 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 <h1 align="left">Olá 👋, meu nome é Aldo</h1>
 <h4 align="left">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3>
 <br>
 
-- 📚 Estou cursando **ciência da computação**
+- 📚 Estou cursando **ciência da computação.**
 - 👨‍💻 Todos meus projetos estão disponíveis em [https://aldodeveloper.netlify.app/](https://aldodeveloper.netlify.app/)
-- 💻 Estou aprendendo **Typescript e JAMStack** 
+- 💻 Estou aprendendo **nodejs, express e banco de dados.** 
 - 📫 Por onde me contatar **aldobarbosa.dev@gmail.com**
 
 <h3 align="left">Links redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aldo-barbosa-055604230/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldo-barbosa-055604230/" height="30" width="40" /></a>
-<a href="https://fb.com/aldo.clep1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aldo.clep1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e ferramentas:</h3>
