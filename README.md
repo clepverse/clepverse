@@ -1,10 +1,9 @@
 <h1 align="left">Olá 👋, meu nome é Aldo</h1>
-<h4 align="left">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3>
+<!-- <h4 align="left">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3> -->
 <br>
 
 - 📚 Estou cursando **ciência da computação.**
-- 👨‍💻 Todos meus projetos estão disponíveis em [https://aldodeveloper.netlify.app/](https://aldodeveloper.netlify.app/)
-- 💻 Estou aprendendo **nodejs, express e banco de dados.** 
+- 💻 Foco **ecossistema javascript, fullstack.** 
 - 📫 Por onde me contatar **aldobarbosa.dev@gmail.com**
 
 <h3 align="left">Links redes sociais:</h3>
