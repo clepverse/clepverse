@@ -3,7 +3,7 @@
 <br>
 
 - 📚 Estou cursando **ciência da computação.**
-- 💻 Foco **ecossistema javascript, fullstack.** 
+- 💻 Foco **ecossistema javascript, nodejs.** 
 <!-- - 📫 Por onde me contatar **aldobarbosa.dev@gmail.com** -->
 
 <!-- <h3 align="left">Links redes sociais:</h3>
