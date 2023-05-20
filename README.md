@@ -3,7 +3,7 @@
 <br>
 
 - 📚 Cursando **ciência da computação**
-- 💻 Foco no **ecossistema javascript, frontend e backend** 
+- 💻 Foco no **ecossistema javascript: frontend e backend** 
 <!-- - 📫 Por onde me contatar **aldobarbosa.dev@gmail.com** -->
 
 <!-- <h3 align="left">Links redes sociais:</h3>
