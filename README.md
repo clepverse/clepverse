@@ -1,9 +1,9 @@
-<h1 align="left">Olá 👋, meu nome é Aldo</h1>
+<h1 align="left">Olá 👋</h1>
 <!-- <h4 align="left">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3> -->
 <br>
 
-- 📚 Estou cursando **ciência da computação.**
-- 💻 Foco **ecossistema javascript, nodejs.** 
+- 📚 Cursando **ciência da computação**
+- 💻 Foco nas principais tecnologias **ecossistema javascript, frontend e backend** 
 <!-- - 📫 Por onde me contatar **aldobarbosa.dev@gmail.com** -->
 
 <!-- <h3 align="left">Links redes sociais:</h3>
