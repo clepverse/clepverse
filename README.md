@@ -1,4 +1,4 @@
-<h1 align="left">Olá 👋</h1>
+<!-- <h1 align="left">Olá 👋</h1> -->
 <!-- <h4 align="left">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3> -->
 <br>
 
