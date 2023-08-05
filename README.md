@@ -2,7 +2,7 @@
 <!-- <h4 align="left">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3> -->
 <!--<br> -->
 
-- 📚 **ciência da computação**
+- 📚 **Ciência da computação**
 - 💻 **Desenvolvedor javascript** 
 <!-- - 📫 Por onde me contatar **aldobarbosa.dev@gmail.com** -->
 
