@@ -1,9 +1,9 @@
 <!-- <h1 align="left">Olá 👋</h1> -->
 <!-- <h4 align="left">Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação!</h3> -->
-<br>
+<!--<br> -->
 
-- 📚 Cursando **ciência da computação**
-- 💻 Foco no **ecossistema javascript: frontend e backend** 
+- 📚 **ciência da computação**
+- 💻 **Desenvolvedor javascript** 
 <!-- - 📫 Por onde me contatar **aldobarbosa.dev@gmail.com** -->
 
 <!-- <h3 align="left">Links redes sociais:</h3>
